@@ -19,3 +19,5 @@ While running:
   4. You will then be prompted to enter the colors yielded in the game: g for green, y for yellow, and w for gray.
   5. Repreat steps three and four until solved. (After the first guess, words are not always populated so check temp.txt or guesses_2.txt for a list.)
   6. After solving, Ctrl+C to exit. (Success conditions yielding faulty results.)
+
+ALSO NOTE NOT ALL WORDS IN THE DICTIONARY ARE IN all_words.txt.
